@@ -9,13 +9,13 @@ const siteMetadata = {
     siteUrl: 'https://create-blog-with-nextjs.vercel.app', // your website URL
     siteLogo: '/logo.png',
     socialBanner: '/social-banner.png', // add social banner in the public folder
-    email: 'codebucks27@gmail.com', 
-    github: 'https://github.com/codebucks27',
-    twitter: 'https://twitter.com/code_bucks',
+    email: 'abishekkumar2k03@gmail.com', 
+    github: 'https://github.com/AbishekKumar-CSE?tab=repositories',
+    twitter: '#',
     facebook: 'https://facebook.com',
-    youtube: 'https://youtube.com/codebucks',
-    linkedin: 'https://www.linkedin.com/in/codebucks/',
-    dribbble: 'https://www.dribbble.com',
+    youtube: '#',
+    linkedin: 'https://www.linkedin.com/in/abishekkumar369/',
+    dribbble: '#',
     locale: 'en-US',
   }
   
